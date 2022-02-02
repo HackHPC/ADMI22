@@ -9,8 +9,8 @@ This page will serve as the event site for the HackHPC@ADMI22 Hackthon.
   * Hackathon: March 31st - April 4th
 
 ## Contact Information:
-  * Web: [http://hackhpc.org/](http://hackhpc.org/)
-  * Email: [schack@hackhcp.org](mailto:schack@hackhcp.org?subject=[HackHPC-ADMI22])
+  * **Web:** [http://hackhpc.org/](http://hackhpc.org/)
+  * **Email:** [schack@hackhcp.org](mailto:schack@hackhcp.org?subject=[HackHPC-ADMI22])
   * [Twitter](https://twitter.com/ccloudhack?lang=en)
   * [YouTube](https://www.youtube.com/channel/UCESkfjHWsERvFpJgPmWXRSA)
   * [Discord](https://discord.gg/rSXasYKDwE)
