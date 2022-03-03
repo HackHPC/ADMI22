@@ -16,3 +16,7 @@ This page will serve as the event site for the HackHPC@ADMI22 Hackthon. More inf
   * [YouTube](https://www.youtube.com/channel/UCESkfjHWsERvFpJgPmWXRSA)
   * [Discord](https://discord.gg/rSXasYKDwE)
   * [Prior Hackathons](http://hackhpc.org/pasthacks/) 
+
+
+**Jekyll Theme - Mundana by WowThemes.net**
+
