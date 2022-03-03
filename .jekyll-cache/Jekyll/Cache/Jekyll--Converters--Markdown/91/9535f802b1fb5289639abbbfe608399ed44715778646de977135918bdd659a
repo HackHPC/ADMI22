@@ -1,12 +1,4 @@
----
-title: "Home"
-layout: default
-pagination:
-    enabled: true
-description: "This page will serve as the event site for the HackHPC@ADMI22 Hackthon. More information on the ADMI22 Conference can be found at https://www.admiusa.org/admi2022/"
----
-
-<div class="container">
+I"%<div class="container">
     
 {% if page.url == "/" %}
     
@@ -20,14 +12,14 @@ description: "This page will serve as the event site for the HackHPC@ADMI22 Hack
     <div class="col-md-6">
         <div style="border-bottom:1px solid grey;">
         <div style="display:inline-block;vertical-align:middle;">
-            <img src="assets/images/HackHPC_ADMI22-header.png" height="100">
+            <img src="assets/images/HackHPC_ADMI22-header.png" height="100" />
         </div>
        
     </div>
 
     <div class="card border-0 mb-4 box-shadow" style="padding-top: 3px;">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
-    <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    &lt;div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"&gt;&lt;/div&gt;     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
@@ -60,7 +52,7 @@ description: "This page will serve as the event site for the HackHPC@ADMI22 Hack
                 {% if second_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{second_post.url}}">
-                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{site.baseurl}}/{{ second_post.image }}{% endif %}" alt="{{ second_post.title }}">
+                 &lt;img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{site.baseurl}}/{{ second_post.image }}{% endif %}" alt="{{ second_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}                
@@ -87,7 +79,7 @@ description: "This page will serve as the event site for the HackHPC@ADMI22 Hack
                 {% if third_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{third_post.url}}">
-                 <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                 &lt;img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}                
@@ -114,7 +106,7 @@ description: "This page will serve as the event site for the HackHPC@ADMI22 Hack
                 {% if fourth_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
-                <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                &lt;img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}                
@@ -185,7 +177,7 @@ description: "This page will serve as the event site for the HackHPC@ADMI22 Hack
         
         <div class="mt-5">
          <!-- Pagination links -->
-            {% if paginator.total_pages > 1 %}
+            {% if paginator.total_pages &gt; 1 %}
             <ul class="pagination"> 
               {% if paginator.previous_page %}
                 <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
@@ -223,3 +215,4 @@ description: "This page will serve as the event site for the HackHPC@ADMI22 Hack
 
 
 </div>
+:ET

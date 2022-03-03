@@ -1,0 +1,104 @@
+I"G<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">Je'aime Powell <span class="small btn btn-outline-success btn-sm btn-round"><a href="https://twitter.com/jeaimehp">Follow</a></span></h2>
+                <p><a href="https://jeaimehp.github.io/">https://jeaimehp.github.io/</a></p>
+                <p class="excerpt">Je’aime is a Systems Administrator and a researcher at the Texas Advanced Computing Center. When not working on high-perfomance/cloud compute systems or mentoring students you can find him designing, creating, and/or deploying enviromental sensors.</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="Je'aime Powell" src="/assets/images/jeaime-sq.png" class="rounded-circle" height="100" width="100" />
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by Je'aime Powell</span></h4>
+            
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/training-schedule/">Pre-Event Training Schedule</a>
+	</h2>
+	<p class="excerpt">
+	   The inital training topics have been selected in anticipation of the Hack@ADMI hackathon. A few of the session will occur during the ADMI Symposium including “Hackathon Begining to En...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#information">information</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 15, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/training-schedule/">
+	<img class="w-100" src="/assets/images/jupytertraining.png" alt="Pre-Event Training Schedule" />
+	</a>
+	</div>
+
+</div>
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/registration-open/">Registration is Open!</a>
+	</h2>
+	<p class="excerpt">
+	   Ready to register? Click below to fill out the provided form. Please note that registration for this hackathon does not automatically register you for the ADMI Symposium. If you are a...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#information">information</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 01, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/registration-open/">
+	<img class="w-100" src="/assets/images/hack-logo.png" alt="Registration is Open!" />
+	</a>
+	</div>
+
+</div>
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/hack-at-admi22/">Hack@ADMI [March 31st - April 4th, 2022]</a>
+	</h2>
+	<p class="excerpt">
+	   The first annual HackHPC@ADMI will kick-off Thursday, March 31st and will be held virtually. Teams will be comprised of 3-5 students and a host mentor from the same university. Subjec...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#information">information</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 18, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/hack-at-admi22/">
+	<img class="w-100" src="/assets/images/HackHPC_ADMI22lg.png" alt="Hack@ADMI [March 31st - April 4th, 2022]" />
+	</a>
+	</div>
+
+</div>
+            
+    </div>
+</div>
+</div>
+:ET
