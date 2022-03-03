@@ -3,7 +3,7 @@ name: 'HackHPC@ADMI22'
 description: 'This page will serve as the event site for the HackHPC@ADMI22 Hackthon.'
 logo: 'assets/images/HackHPC_ADMI22.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'https://hackhpc.github.io/ADMI22'
+#baseurl: 'https://hackhpc.github.io/ADMI22'
 #disqus: 'demowebsite'
 email: 'schack@hackhcp.org?subject=[HackHPC-ADMI22]'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -42,6 +42,17 @@ authors:
       email:          haydenl@mindspring.com
       twitter:        https://twitter.com/lhaydenecsu
       github:         https://hackhpc.github.io/ 
+
+    john:
+      name:           John Holly
+      affiliation:    "XSEDE"
+      site:           https://www.xsede.org/
+      linkedin:       https://www.linkedin.com/in/john-holly-7264a4b/
+      avatar:         assets/images/john.jpeg
+      bio:            "John is lending his talents to the HackHPC as both a Mentor and Organizer."
+      email:          jholly@sura.org
+      twitter:        https://twitter.com/ccloudhack
+      github:         https://hackhpc.github.io/  
 
     josh:
       name:           Josh Kissel

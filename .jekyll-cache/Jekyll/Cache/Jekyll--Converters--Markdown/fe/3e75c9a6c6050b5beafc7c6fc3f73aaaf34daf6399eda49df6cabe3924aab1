@@ -1,0 +1,182 @@
+I"5<div class="container">
+<h4 class="font-weight-bold spanborder"><span>Organizers</span></h4>
+    <div class="row gap-y listrecent listrecent listauthor">
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="Amy Cannon" src="/assets/images/amy-sq.png" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/author-amy-cannon">
+            <h4 class="text-dark mb-0"> Amy Cannon </h4>
+            <h5 class="text-dark mb-0"> Omnibond </h5>  
+            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
+            <div class="excerpt">Amy Cannon has worked at Omnibond for 10 years, where her Business Development skills allow her to engage with customers and partners, teaching how HPC and Cloud help solve scientific problems. Outside of work she enjoys spending time in nature as well as helping others grow their HPC, HTC, AI, and Cloud Computing knowledge.</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+            <a target="_blank" href="mailto:amycannon@omnibond.com?subject=[HackHPC@ADMI]"><i class="fa fa-envelope text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://www.linkedin.com/in/amy-cannon-46230b31/"><i class="fab fa-linkedin text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://twitter.com/amy__cannon"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="http://www.omnibond.com/"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            <a target="_blank" href="https://hackhpc.github.io/"><i class="fab fa-github text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="Dr. Linda Hayden" src="/assets/images/linda.jpeg" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/author-dr-linda-hayden">
+            <h4 class="text-dark mb-0"> Dr. Linda Hayden </h4>
+            <h5 class="text-dark mb-0"> Science Gateways Community Institute </h5>  
+            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
+            <div class="excerpt">Dr. Linda Hayden holds a Ph.D. in Mathematics and Education. She leads workforce development activities for the NSF Science Gateways Community Institute (SGCI). In that position she works to train the next generation of gateway developers and users. Professor Hayden is an NSF Presidential Awardee for Excellence in Science, Mathematics and Engineering Mentoring.</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+            <a target="_blank" href="mailto:haydenl@mindspring.com?subject=[HackHPC@ADMI]"><i class="fa fa-envelope text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://www.linkedin.com/in/linda-hayden-5a8b424/"><i class="fab fa-linkedin text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://twitter.com/lhaydenecsu"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://sciencegateways.org/"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            <a target="_blank" href="https://hackhpc.github.io/"><i class="fab fa-github text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="John Holly" src="/assets/images/john.jpeg" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/author-john-holly">
+            <h4 class="text-dark mb-0"> John Holly </h4>
+            <h5 class="text-dark mb-0"> XSEDE </h5>  
+            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
+            <div class="excerpt">John is lending his talents to the HackHPC as both a Mentor and Organizer.</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+            <a target="_blank" href="mailto:jholly@sura.org?subject=[HackHPC@ADMI]"><i class="fa fa-envelope text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://www.linkedin.com/in/john-holly-7264a4b/"><i class="fab fa-linkedin text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://twitter.com/ccloudhack"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://www.xsede.org/"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            <a target="_blank" href="https://hackhpc.github.io/"><i class="fab fa-github text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="Josh Kissel" src="/assets/images/josh.jpeg" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/author-josh-kissel">
+            <h4 class="text-dark mb-0"> Josh Kissel </h4>
+            <h5 class="text-dark mb-0"> Omnibond </h5>  
+            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
+            <div class="excerpt">Josh has worked at Omnibond for the past two years and helps with Hackathon website maintenance. He got his first computer in 1993 when his parents brought home a Gateway in a black and white spotted box. When not helping with hackathons he enjoys cartography, playing with dogs, and snowshoeing.</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+            <a target="_blank" href="mailto:josh@trafficvision.com?subject=[HackHPC@ADMI]"><i class="fa fa-envelope text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://www.linkedin.com/in/josh-kissel-201a4895/"><i class="fab fa-linkedin text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://twitter.com/ccloudhack"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="http://www.omnibond.com/"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            <a target="_blank" href="https://hackhpc.github.io/"><i class="fab fa-github text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="Alex Nolte" src="/assets/images/alex.jpeg" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/author-alex-nolte">
+            <h4 class="text-dark mb-0"> Alex Nolte </h4>
+            <h5 class="text-dark mb-0"> University of Tartu </h5>  
+            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
+            <div class="excerpt">Hi, I’m Alex. I am a Lecturer at the University of Tartu in Estonia and an Adjunct Assistant Professor at Carnegie Mellon University in Pittsburgh working in the area of human computer interaction. I am an avid hackathon enthusiast and I have participated in, co-organized, served as a mentor and studied countless hackathons over the past years with no end in sight. Outside of work I fiddle with any gadget I can get my hand on, play video games, cook and do BBQ.</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+            <a target="_blank" href="mailto:alexander.nolte@ut.ee?subject=[HackHPC@ADMI]"><i class="fa fa-envelope text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://www.linkedin.com/in/alexandernolte/"><i class="fab fa-linkedin text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://twitter.com/alexander_nolte/"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="http://www.ut.ee/en"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            <a target="_blank" href="https://alexandernolte.github.io/"><i class="fab fa-github text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="Je'aime Powell" src="/assets/images/jeaime-sq.png" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/author-je-aime-powell">
+            <h4 class="text-dark mb-0"> Je'aime Powell </h4>
+            <h5 class="text-dark mb-0"> Texas Advanced Computing Center </h5>  
+            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
+            <div class="excerpt">Je’aime is a Systems Administrator and a researcher at the Texas Advanced Computing Center. When not working on high-perfomance/cloud compute systems or mentoring students you can find him designing, creating, and/or deploying enviromental sensors.</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+            <a target="_blank" href="mailto:jpowell@tacc.utexas.edu?subject=[HackHPC@ADMI]"><i class="fa fa-envelope text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://www.linkedin.com/in/jeaimehp/"><i class="fab fa-linkedin text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://twitter.com/jeaimehp"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://jeaimehp.github.io/"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            <a target="_blank" href="https://github.com/jeaimehp"><i class="fab fa-github text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="Boyd Wilson" src="/assets/images/boyd.png" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/author-boyd-wilson">
+            <h4 class="text-dark mb-0"> Boyd Wilson </h4>
+            <h5 class="text-dark mb-0"> Omnibond </h5>  
+            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
+            <div class="excerpt">Boyd Wilson, CEO of Omnibond Systems, has extensive experience and leadership in the areas of software development, system administration, storage architectures and business models. Formerly, Boyd served as Software CTO and also Executive Director over computing operations at Clemson University and had research computing as part of his purview. He has participated in various academic grants, papers and workshops in the areas of parallel storage, cloud computing and computational infrastructure. Boyd’s current focus lies in 4 areas: first- computer vision, ai, and real-time traffic analytics with TrafficVision; second- high-performance computing and storage with CloudyCluster and OrangeFS; third- identity and security management; fourth- wake surfing and riding a boosted board around cities while traveling.</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+            <a target="_blank" href="mailto:boyd@omnibond.com?subject=[HackHPC@ADMI]"><i class="fa fa-envelope text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://www.linkedin.com/in/boydwilson/"><i class="fab fa-linkedin text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://twitter.com/boydwilson/"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="http://www.omnibond.com/"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            <a target="_blank" href="https://github.com/omnibond/"><i class="fab fa-github text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+    </div>
+</div>
+:ET

@@ -1,0 +1,117 @@
+# Site
+name: 'HackHPC@ADMI22'
+description: 'This page will serve as the event site for the HackHPC@ADMI22 Hackthon.'
+logo: 'assets/images/HackHPC_ADMI22.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: 'https://hackhpc.github.io/ADMI22'
+#disqus: 'demowebsite'
+email: 'schack@hackhcp.org?subject=[HackHPC-ADMI22]'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+
+
+    amy:
+      name:           Amy Cannon
+      affiliation:    "Omnibond"
+      site:           http://www.omnibond.com/
+      linkedin:       https://www.linkedin.com/in/amy-cannon-46230b31/
+      avatar:         assets/images/amy-sq.png
+      bio:            "Amy Cannon has worked at Omnibond for 10 years, where her Business Development skills allow her to engage with customers and partners, teaching how HPC and Cloud help solve scientific problems. Outside of work she enjoys spending time in nature as well as helping others grow their HPC, HTC, AI, and Cloud Computing knowledge."
+      email:          amycannon@omnibond.com
+      twitter:        https://twitter.com/amy__cannon
+      github:         https://hackhpc.github.io/ 
+
+    linda:
+      name:           Dr. Linda Hayden
+      affiliation:    "Science Gateways Community Institute"
+      site:           https://sciencegateways.org/
+      linkedin:       https://www.linkedin.com/in/linda-hayden-5a8b424/
+      avatar:         assets/images/linda.jpeg
+      bio:            "Dr. Linda Hayden holds a Ph.D. in Mathematics and Education. She leads workforce development activities for the NSF Science Gateways Community Institute (SGCI). In that position she works to train the next generation of gateway developers and users. Professor Hayden is an NSF Presidential Awardee for Excellence in Science, Mathematics and Engineering Mentoring."
+      email:          haydenl@mindspring.com
+      twitter:        https://twitter.com/lhaydenecsu
+      github:         https://hackhpc.github.io/ 
+
+    josh:
+      name:           Josh Kissel
+      affiliation:    "Omnibond"
+      site:           http://www.omnibond.com/
+      linkedin:       https://www.linkedin.com/in/josh-kissel-201a4895/
+      avatar:         assets/images/josh.jpeg
+      bio:            "Josh has worked at Omnibond for the past two years and helps with Hackathon website maintenance. He got his first computer in 1993 when his parents brought home a Gateway in a black and white spotted box. When not helping with hackathons he enjoys cartography, playing with dogs, and snowshoeing."
+      email:          josh@trafficvision.com
+      twitter:        https://twitter.com/ccloudhack
+      github:         https://hackhpc.github.io/  
+
+    alex:
+      name:           Alex Nolte
+      affiliation:    "University of Tartu"
+      site:           http://www.ut.ee/en
+      linkedin:       https://www.linkedin.com/in/alexandernolte/
+      avatar:         assets/images/alex.jpeg
+      bio:            "Hi, I’m Alex. I am a Lecturer at the University of Tartu in Estonia and an Adjunct Assistant Professor at Carnegie Mellon University in Pittsburgh working in the area of human computer interaction. I am an avid hackathon enthusiast and I have participated in, co-organized, served as a mentor and studied countless hackathons over the past years with no end in sight. Outside of work I fiddle with any gadget I can get my hand on, play video games, cook and do BBQ."
+      email:          alexander.nolte@ut.ee
+      twitter:        https://twitter.com/alexander_nolte/
+      github:         https://alexandernolte.github.io/ 
+
+    jeaime:
+      name:           Je'aime Powell
+      affiliation:    "Texas Advanced Computing Center"
+      site:           https://jeaimehp.github.io/
+      linkedin:       https://www.linkedin.com/in/jeaimehp/
+      avatar:         assets/images/jeaime-sq.png
+      bio:            "Je’aime is a Systems Administrator and a researcher at the Texas Advanced Computing Center. When not working on high-perfomance/cloud compute systems or mentoring students you can find him designing, creating, and/or deploying enviromental sensors."
+      email:          jpowell@tacc.utexas.edu
+      twitter:        https://twitter.com/jeaimehp
+      github:         https://github.com/jeaimehp 
+    
+    boyd:
+      name:           Boyd Wilson
+      affiliation:    "Omnibond"
+      site:           http://www.omnibond.com/
+      linkedin:       https://www.linkedin.com/in/boydwilson/
+      avatar:         assets/images/boyd.png
+      bio:            "Boyd Wilson, CEO of Omnibond Systems, has extensive experience and leadership in the areas of software development, system administration, storage architectures and business models. Formerly, Boyd served as Software CTO and also Executive Director over computing operations at Clemson University and had research computing as part of his purview. He has participated in various academic grants, papers and workshops in the areas of parallel storage, cloud computing and computational infrastructure. Boyd’s current focus lies in 4 areas: first- computer vision, ai, and real-time traffic analytics with TrafficVision; second- high-performance computing and storage with CloudyCluster and OrangeFS; third- identity and security management; fourth- wake surfing and riding a boosted board around cities while traveling."
+      email:          boyd@omnibond.com
+      twitter:        https://twitter.com/boydwilson/
+      github:         https://github.com/omnibond/
+
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
