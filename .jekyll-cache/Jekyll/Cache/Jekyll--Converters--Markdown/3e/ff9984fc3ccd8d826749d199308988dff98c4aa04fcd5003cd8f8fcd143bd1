@@ -1,0 +1,20 @@
+I" <div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">Alex Nolte <span class="small btn btn-outline-success btn-sm btn-round"><a href="https://twitter.com/alexander_nolte/">Follow</a></span></h2>
+                <p><a href="http://www.ut.ee/en">http://www.ut.ee/en</a></p>
+                <p class="excerpt">Hi, I’m Alex. I am a Lecturer at the University of Tartu in Estonia and an Adjunct Assistant Professor at Carnegie Mellon University in Pittsburgh working in the area of human computer interaction. I am an avid hackathon enthusiast and I have participated in, co-organized, served as a mentor and studied countless hackathons over the past years with no end in sight. Outside of work I fiddle with any gadget I can get my hand on, play video games, cook and do BBQ.</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="Alex Nolte" src="/assets/images/alex.jpeg" class="rounded-circle" height="100" width="100" />
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by Alex Nolte</span></h4>
+            
+            
+    </div>
+</div>
+</div>
+:ET

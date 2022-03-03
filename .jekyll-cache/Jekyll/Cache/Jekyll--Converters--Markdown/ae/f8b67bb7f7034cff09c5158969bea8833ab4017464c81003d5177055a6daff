@@ -1,0 +1,48 @@
+I"#<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">Josh Kissel <span class="small btn btn-outline-success btn-sm btn-round"><a href="https://twitter.com/ccloudhack">Follow</a></span></h2>
+                <p><a href="http://www.omnibond.com/">http://www.omnibond.com/</a></p>
+                <p class="excerpt">Josh has worked at Omnibond for the past two years and helps with Hackathon website maintenance. He got his first computer in 1993 when his parents brought home a Gateway in a black and white spotted box. When not helping with hackathons he enjoys cartography, playing with dogs, and snowshoeing.</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="Josh Kissel" src="/assets/images/josh.jpeg" class="rounded-circle" height="100" width="100" />
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by Josh Kissel</span></h4>
+            
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/join-hackhpc-community/">Join the HackHPC Community</a>
+	</h2>
+	<p class="excerpt">
+	   We at HackHPC are celebrating our fourth year organizing and hosting hackathons as a group! We began in th ballroom of a hotel after the PEARC 2018 Conference to now running virtual h...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#information">information</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 26, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/join-hackhpc-community/">
+	<img class="w-100" src="/assets/images/hackhpc-2018.jpeg" alt="Join the HackHPC Community" />
+	</a>
+	</div>
+
+</div>
+            
+    </div>
+</div>
+</div>
+:ET

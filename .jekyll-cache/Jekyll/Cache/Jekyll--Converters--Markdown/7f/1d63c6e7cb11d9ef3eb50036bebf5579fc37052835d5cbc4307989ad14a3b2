@@ -1,0 +1,20 @@
+I"‡<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">Boyd Wilson <span class="small btn btn-outline-success btn-sm btn-round"><a href="https://twitter.com/boydwilson/">Follow</a></span></h2>
+                <p><a href="http://www.omnibond.com/">http://www.omnibond.com/</a></p>
+                <p class="excerpt">Boyd Wilson, CEO of Omnibond Systems, has extensive experience and leadership in the areas of software development, system administration, storage architectures and business models. Formerly, Boyd served as Software CTO and also Executive Director over computing operations at Clemson University and had research computing as part of his purview. He has participated in various academic grants, papers and workshops in the areas of parallel storage, cloud computing and computational infrastructure. Boydâ€™s current focus lies in 4 areas: first- computer vision, ai, and real-time traffic analytics with TrafficVision; second- high-performance computing and storage with CloudyCluster and OrangeFS; third- identity and security management; fourth- wake surfing and riding a boosted board around cities while traveling.</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="Boyd Wilson" src="/assets/images/boyd.png" class="rounded-circle" height="100" width="100" />
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by Boyd Wilson</span></h4>
+            
+            
+    </div>
+</div>
+</div>
+:ET
