@@ -2,7 +2,7 @@
 layout: post
 title:  "Registration is Open!"
 author: jeaime
-categories: [ information, announcement ]
+categories: [ information ]
 image: assets/images/hack-logo.png
 tags: [featured, sticky]
 ---
