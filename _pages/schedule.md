@@ -20,4 +20,3 @@ comments: true
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br>[![Calendar](images/cal-icon.png)](ics_files/%5BHPC%20in%20the%20City%5D%20Final%20Presentations.ics) | **_Team Presentations and Awards Ceremony_** [[Slides]](Training_Slides/Final%20Presentations.pdf)<br> &ensp; **Viewer's Choice Award - ["Don't Skip a Beat"](#dont-skip-a-beat)** <br> &ensp; **Impact Award - ["Team Block Busters"](#team-blockbusters)** <br> &ensp; **Judge's Award - ["A.I.R."](#air)** <br> &ensp; ‣ _Team Deliverables Due_ <br> &ensp; ‣ YouTube Stream Opens [[Stream Link]](https://youtu.be/Gxga3KWiAm8) |
 
 
-Made with <i class="fa fa-heart text-danger"></i> by john [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
