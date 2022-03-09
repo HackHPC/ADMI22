@@ -2,8 +2,9 @@
 layout: post
 title:  "Deliverables Due 4/4/22"
 author: jeaime
-categories: [ information, featured ]
+categories: [ information ]
 image: assets/images/reminder.png
+tags: [featured]
 ---
 
 Prior to the first presentation, all teams must submit the below deliverables. Teams that do not will receive an automatic 20pt deduction from their over all score during judging. You can find some example final presentation [Github](https://github.com/) repositories and projects at [HackHPC.org](http://hackhpc.org/pasthacks/#content2). The full schedule for the event can be viewed [here](https://hackhpc.github.io/ADMI22/schedule.html).
