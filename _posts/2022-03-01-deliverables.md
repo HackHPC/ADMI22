@@ -6,7 +6,7 @@ categories: [ information ]
 image: assets/images/brickbybrick-presentation.png
 ---
 
-Prior to the first presentation, all teams must submit the below deliverables. Teams that do not will receive an automatic 20pt deduction from their over all score during judging. You can find some example final presentation [Github](https://github.com/) repositories and projects at [HackHPC.org](http://hackhpc.org/pasthacks/#content2). The full schedule for the event can be viewed [here](../_pages/schedule.md).
+Prior to the first presentation, all teams must submit the below deliverables. Teams that do not will receive an automatic 20pt deduction from their over all score during judging. You can find some example final presentation [Github](https://github.com/) repositories and projects at [HackHPC.org](http://hackhpc.org/pasthacks/#content2). The full schedule for the event can be viewed [here](https://hackhpc.github.io/ADMI22/schedule.html).
 
 >Github Repository Link posted to Discord "#general" Channel before Presentations on 4/4/22
 
