@@ -184,16 +184,9 @@ description: "This page will serve as the event site for the HackHPC@ADMI22 Hack
         {% endfor %}
        
         <div class="mt-5">
-           <!-- All Posts -->
-           <ul class="pagination"> 
-            {% for post in site.posts %}
-            <li class="page-item"><a class="page-link" href="{{site.baseurl}}{{ post.url }}">{{ page }}</a></li>
-        
-              {% endfor %}
-           </ul>
          
          
-            <!-- Pagination links 
+            <!-- Pagination links  -->
             {% if paginator.total_pages > 1 %}
             <ul class="pagination"> 
               
@@ -220,7 +213,7 @@ description: "This page will serve as the event site for the HackHPC@ADMI22 Hack
               {% endif %}
             </ul>
             {% endif %}   
-            -->   
+              
         </div>
         
     </div>
