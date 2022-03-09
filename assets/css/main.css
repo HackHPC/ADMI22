@@ -18,7 +18,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --light-blue: #e8f3ec;
+  --light-blue: #e6f2ff; /* #e8f3ec;*/
   --primary: #03a87c;
   --secondary: #7832e2;
   --success: #03a87c;
@@ -34,7 +34,7 @@
   --gray: #ced4da;
   --indigo: #502c6c;
   --orange: #fbb500;
-  --lightblue: #e8f3ec;
+  --lightblue: #e6f2ff; /* #e8f3ec;*/
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -5137,7 +5137,7 @@ button.bg-orange:focus {
   background-color: #c89000 !important; }
 
 .bg-lightblue {
-  background-color: #e8f3ec !important; }
+  background-color: #e6f2ff!important; }
 
 a.bg-lightblue:hover, a.bg-lightblue:focus,
 button.bg-lightblue:hover,
