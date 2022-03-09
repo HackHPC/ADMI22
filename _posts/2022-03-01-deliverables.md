@@ -2,7 +2,7 @@
 layout: post
 title:  "Deliverables Due 4/4/22"
 author: jeaime
-categories: [ information ]
+categories: [ information, featured ]
 image: assets/images/reminder.png
 ---
 
