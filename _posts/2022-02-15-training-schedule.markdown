@@ -15,9 +15,9 @@ The inital training topics have been selected in anticipation of the Hack@ADMI h
 * GitHub / Discord - (3/24  - 12pET/11aCT)
 ## During ADMI Symposium 
 * Keynote (TACC HPC training model) - Charlie Dey (3/25 9:45 AM – 10:30 AM) 
-* Hackathon Beginning to End - Josselyn Sldago (3/25 12:45 - 1:30) 
-* Data to Dashboard - Jeaime Powell (3/26 9:30 - 11:00)  
-* Cloudy Cluster / Google Cloud - Boyd Wilson (3/26 11:15 - 1:00) 
+* Hackathon Beginning to End - Josselyn Saldago [![LinkedIn](assets/images/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/josselynsalgado) (3/25 12:45 - 1:30) 
+* Data to Dashboard - Jeaime Powell [![LinkedIn](assets/images/sm_linkedinicon.jpeg)](https://www.linkedin.com/in/jeaimehp/) (3/26 9:30 - 11:00)  
+* Cloudy Cluster / Google Cloud - Boyd Wilson [![LinkedIn](assets/images/sm_linkedinicon.jpeg)]( https://www.linkedin.com/in/boydwilson/) (3/26 11:15 - 1:00) 
 ## During Hackathon
 * Judge Overview - (4/1 10aET/9aCT)
 * Final Presentations (4/4 6pmET)
