@@ -3,7 +3,7 @@ layout: post
 title:  "Deliverables Due 4/4/22"
 author: jeaime
 categories: [ information ]
-image: assets/images/HackHPC_ADMI22-200px.png
+image: assets/images/brickbybrick-presentation.png
 ---
 
 Prior to the first presentation, all teams must submit the below deliverables. Teams that do not will receive an automatic 20pt deduction from their over all score during judging. 
