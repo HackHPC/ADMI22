@@ -2,7 +2,7 @@
 title: "Schedule"
 layout: page-sidebar
 permalink: "/schedule.html"
-image: "/assets/images/calendar-icon.png"
+#image: "/assets/images/calendar-icon.png"
 comments: true
 ---
 
