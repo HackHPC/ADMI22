@@ -66,15 +66,15 @@ authors:
       github:         https://hackhpc.github.io/  
 
     alex:
-      name:           Alex Nolte
+      name:           Alexander Nolte
       affiliation:    "University of Tartu"
-      site:           http://www.ut.ee/en
+      site:           https://alexandernolte.github.io/
       linkedin:       https://www.linkedin.com/in/alexandernolte/
       avatar:         assets/images/alex.jpeg
       bio:            "Alex is an Associate Professor at the University of Tartu and an Adjunct Associate Professor at Carnegie Mellon University working in the are of human computer interaction. He is an avid hackathon enthusiast and has participated in, co-organized, served as a mentor and studied countless hackathons over the past years with no end in sight. Outside of work he fiddles with any gadget he can get his hand on, plays video games, cooks and does BBQ."
       email:          alexander.nolte@ut.ee
       twitter:        https://twitter.com/alexander_nolte/
-      github:         https://alexandernolte.github.io/ 
+      github:         https://github.com/alexandernolte
 
     jeaime:
       name:           Je'aime Powell
