@@ -194,7 +194,7 @@ description: "This page will serve as the event site for the HackHPC@ADMI22 Hack
                 <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
               {% endif %}
                
-              {% for page in paginator.total_pages %}
+              {% for page in (1..paginator.total_pages) %}
                 {% if page == paginator.page %}
                 <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
                 {% elsif page == 1 %}
