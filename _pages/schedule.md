@@ -11,7 +11,7 @@ comments: true
     <li><strong>Mentor Overview</strong> - (3/17 - 12pET/11aCT)</li>
     <li><strong>GitHub / Discord </strong>- (3/24  - 12pET/11aCT)</li>
 </ul>
-<strong><a href="https://www.admiusa.org/admi2022/index.php">Training Sessions During the ADMI Symposium :</a></strong> 
+<strong><a class="text-dark" href="https://www.admiusa.org/admi2022/index.php">Training Sessions During the ADMI Symposium :</a></strong> 
 <ul>
     <li><strong>Keynote (TACC HPC training model)</strong> - (3/25  - 9:45aET/8:45aCT)</li> 
     <ul><li>Charlie Dey <a href="https://www.linkedin.com/in/charlie-dey-0031317a/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a> </li></ul>
