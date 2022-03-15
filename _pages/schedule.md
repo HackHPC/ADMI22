@@ -18,7 +18,7 @@ comments: true
     <li><strong>Hackathon Beginning to End</strong> - (3/25 - 12:45pET/11:45aCT) 
     <ul><li>Josselyn Saldago <a href="https://www.linkedin.com/in/josselynsalgado"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a> </li></ul></li> 
     <li><strong>Data to Dashboard</strong> - (3/26 - 9:30aET/8:30aCT) 
-    <ul><li>Jeaime Powell <a href="https://www.linkedin.com/in/jeaimehp/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a> </li></ul>  </li>
+    <ul><li>Je'aime Powell <a href="https://www.linkedin.com/in/jeaimehp/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a> </li></ul>  </li>
     <li><strong>Cloudy Cluster / Google Cloud</strong> - (3/26 - 11:15aET/10:15aCT)
     <ul><li>Boyd Wilson <a href="https://www.linkedin.com/in/boydwilson/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a> </li></ul> </li>
 </ul>
@@ -64,7 +64,7 @@ td:nth-child(3)::first-line{
 td li::marker {content: "‣ ";}
 </style>
 
-<table class="schedTable">
+<table>
     <tr style="border-top: 2px solid black;">
         <th style="text-align: center;">Day</th>
         <th >Time</th>
@@ -72,7 +72,7 @@ td li::marker {content: "‣ ";}
     </tr>
     <tr> 
         <td>Thursday <br>(3/31)</td>
-        <td>7:00p(EST)<br>6:00p(CT)<br>4:00p(PT)<br></td>
+        <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br></td>
         <td>Kickoff Meeting <br> 
             <ul>
                 <li>Ethics <a href="https://www.youtube.com/watch?v=KukF3-_wqkI&list=PLk7G3_iq2ijTSBy_JwLSXSKjyga6nYFC9&index=7"><img src="assets/images/youtube-logo-sm.png" alt="YouTube video on Ethics"></a> </li>
@@ -85,7 +85,7 @@ td li::marker {content: "‣ ";}
     </tr>
     <tr style="background-color: #f2f2f2; border-top: 2px solid black;">
         <td>Friday <br>(4/1)</td>
-        <td>11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br></td>
+        <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br></td>
         <td>Checkin <br> 
         <em>Team Introductions</em>
             <ul>
@@ -99,7 +99,7 @@ td li::marker {content: "‣ ";}
     </tr>
      <tr style="background-color: #f2f2f2;">
         <td></td>
-        <td>7:00p(EST)<br>6:00p(CT)<br>4:00p(PT)<br></td>
+        <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br></td>
         <td>Checkin <br> <em>Team Goals Presentation</em> 
             <ul>
                 <li> 1 Slide </li>
@@ -110,7 +110,7 @@ td li::marker {content: "‣ ";}
     </tr>
     <tr style="border-top: 2px solid black;">
         <td>Saturday <br>(4/2)</td>
-        <td>11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br></td>
+        <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br></td>
         <td>Checkin <br> Sponsor Welcome from Omnibond - Amy Cannon <a href="https://www.linkedin.com/in/amy-cannon-46230b31/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a>
             <ul>
                 <li> Team Goal(s) </li>
@@ -120,7 +120,7 @@ td li::marker {content: "‣ ";}
     </tr>
     <tr>
         <td></td>
-        <td>7:00p(EST)<br>6:00p(CT)<br>4:00p(PT)<br></td>
+        <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br></td>
         <td>Checkin 
             <ul>
                 <li> <em>1 Day Progress Challenge</em></li>
@@ -129,12 +129,12 @@ td li::marker {content: "‣ ";}
     </tr>
     <tr style="background-color: #f2f2f2; border-top: 2px solid black;">
         <td>Sunday <br>(4/3)</td>
-        <td>12:30p(EST)<br>11:30a(CT)<br>9:30a(PT)<br></td>
+        <td>12:30p(ET)<br>11:30a(CT)<br>9:30a(PT)<br></td>
         <td>Checkin</td>
     </tr>
     <tr style="border-top: 2px solid black;">
         <td>Monday <br>(4/4)</td>
-        <td>11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br></td>
+        <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br></td>
         <td>Checkin <br> Sponsor Welcome from SGCI - Dr. Linda Hayden <a href="https://www.linkedin.com/in/linda-hayden-5a8b424/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a>
             <ul>
                 <li> Team Intro Videos by Mentors </li>
@@ -145,7 +145,7 @@ td li::marker {content: "‣ ";}
     </tr>
     <tr style="border-bottom: 2px solid black;">
         <td ></td>
-        <td>6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br></td>
+        <td>6:00p(ET)<br>5:00p(CT)<br>3:00p(PT)<br></td>
         <td>Team Presentations and Awards Ceremony
             <ul>
                 <li> <em>Team Deliverables Due</em> </li>
