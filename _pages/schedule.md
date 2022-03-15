@@ -100,7 +100,7 @@ td li::marker {content: "‣ ";}
      <tr style="background-color: #f2f2f2;">
         <td></td>
         <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br></td>
-        <td>Checkin <br> <em>Team Goals Presentation</em> 
+        <td>Checkin <br> Sponsor Welcome from Google <br> <em>Team Goals Presentation</em> 
             <ul>
                 <li> 1 Slide </li>
                 <li> Team name </li>
