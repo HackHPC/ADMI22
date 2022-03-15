@@ -21,7 +21,7 @@ comments: true
 ---
 ## Hackathon Events
 
-<table>
+<table style="border: 1px solid;">
     <tr>
         <th>Day</th>
         <th>Time</th>
