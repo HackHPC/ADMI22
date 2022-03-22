@@ -11,4 +11,4 @@ HackHPC's renowned "Mentor Training" pre-event took place on March 17th, 2022. T
 
 **Training resources: [Slide Deck](../assets/../slides/Mentor%20Overview.pdf) | [Video](https://youtu.be/R0kcxZKj8AM) | [Mini-Hack Slide](../assets/images/MiniHack-slide.png)**
 
-![Mini-HAck](../assets/images/MiniHack-slide.png)
+![Mini-Hack](../assets/images/MiniHack-slide.png)
