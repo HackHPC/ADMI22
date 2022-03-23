@@ -129,7 +129,7 @@ td li::marker {content: "‣ ";}
     </tr>
     <tr style="background-color: #f2f2f2; border-top: 2px solid black;">
         <td>Sunday <br>(4/3)</td>
-        <td>12:30p(ET)<br>11:30a(CT)<br>9:30a(PT)<br></td>
+        <td>12:00p(ET)<br>11:00a(CT)<br>9:00a(PT)<br></td>
         <td>Checkin</td>
     </tr>
     <tr style="border-top: 2px solid black;">
