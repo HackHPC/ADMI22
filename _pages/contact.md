@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+layout: page-sidebar
 permalink: "/contact.html"
 ---
 
@@ -17,3 +18,4 @@ permalink: "/contact.html"
 <input type="hidden" name="subject" value="HackHPC Event Site Message from {{email}}">    
 <input class="btn btn-success" type="submit" value="Send">
 </form>
+
