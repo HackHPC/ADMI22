@@ -9,7 +9,7 @@ comments: true
 ## Pre-Hackathon Training Sessions
 <ul>
     <li><strong>Mentor Overview</strong> - (3/17 - 12pET/11aCT) <a href="slides/Mentor%20Overview.pdf">[Slide Deck]</a> | <a href="https://youtu.be/R0kcxZKj8AM">[Video]</a> | <a href="assets/images/MiniHack-slide.png">[Mini-Hack Slide]</a></li>
-    <li><strong>GitHub / Discord </strong>- (3/24  - 12pET/11aCT)</li>
+    <li><strong>GitHub / Discord </strong>- (3/24  - 12pET/11aCT)  <a href="slides/Discord_GitHub_Training.pdf">[Slide Deck]</a> | <a href="https://youtu.be/sLt9FLYsVJw">[Video]</a></li>
 </ul>
 <strong><a class="text-dark" href="https://www.admiusa.org/admi2022/index.php">Training Sessions During the ADMI Symposium :</a></strong> 
 <ul>
