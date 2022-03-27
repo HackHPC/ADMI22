@@ -13,3 +13,5 @@ A “dashboard” in terms of an information systems object is a tool used to di
 
 >Training resources: [[Slide Deck]](../slides/Data-to-Dashboard.pdf) | [[Video]](https://youtu.be/kWTaxXiEEIY) 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kWTaxXiEEIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
