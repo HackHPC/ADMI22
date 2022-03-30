@@ -89,7 +89,7 @@ td li::marker {content: "‣ ";}
         <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br><a href="assets/ics_files/HackHPC-ADMI-Friday-4-1-Morning-Checkin.ics"><img src="assets/images/cal-icon.png" alt="Add to calendar"></a></td>
         <td>Morning Checkin <br> 
         <ul>
-            <li>Sponsor Welcome from Voltron Data - Fernanda Foertter <a href="https://www.linkedin.com/in/foertter/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a>
+            <li>Sponsor Welcome from Voltron Data - Fernanda Foertter <a href="https://www.linkedin.com/in/foertter/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
             <li> Judge's Overview <em>(Private)</em> </li>
             <li>Team Introductions <em>(1-slide/1-minute)</em></li>
                 <ul>
