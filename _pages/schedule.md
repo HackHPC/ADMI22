@@ -87,40 +87,47 @@ td li::marker {content: "‣ ";}
     <tr style="background-color: #f2f2f2; border-top: 2px solid black;">
         <td>Friday <br>(4/1)</td>
         <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br></td>
-        <td>Checkin <br> 
-        <em>Team Introductions (1-slide/1-minute)</em>
-            <ul>
+        <td>Morning Checkin <br> 
+        <ul>
+            <li><em>Team Introductions (1-slide/1-minute)</em></li>
+                <ul>
                         <li> Team name </li>
                         <li> Team members including Mentor </li>
                         <li> Team Theme song </li>
                         <li> Team Virtual background </li>
-            </ul>
+                </ul>
+        </ul>
         </td>
     </tr>
      <tr style="background-color: #f2f2f2;">
         <td></td>
         <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br></td>
-        <td>Checkin <br> Sponsor Welcome from Google <br> <em>Team Goals Presentation (1-slide/1-minute)</em> 
-            <ul>
-                <li> Team name </li>
-                <li> Team members including Mentor</li>
+        <td>Afternoon Checkin 
+        <ul>
+            <li>Sponsor Welcome from Google </li>
+            <li> <em>Team Goals Presentation (1-slide/1-minute)</em> </li>
+                <ul>      
+                    <li> Team name </li>
+                    <li> Team members including Mentor</li>
+                </ul>
             </ul>
         </td>
     </tr>
     <tr style="border-top: 2px solid black;">
         <td>Saturday <br>(4/2)</td>
         <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br></td>
-        <td>Checkin <br> Sponsor Welcome from Omnibond - Amy Cannon <a href="https://www.linkedin.com/in/amy-cannon-46230b31/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a>
-            <ul>
-                <li> Team Goal(s) (1-slide/1-minute)</li>
-                <li> at least 2 tasks to be completed by Saturday Evening Checkin</li>
+        <td>Morning Checkin 
+        <ul>
+            <li>Sponsor Welcome from Omnibond - Amy Cannon <a href="https://www.linkedin.com/in/amy-cannon-46230b31/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
+            <li> Team Goal(s) (1-slide/1-minute):
+              <br>at least 2 tasks to be completed by Saturday Evening Checkin</li>
             </ul>
         </td>
     </tr>
     <tr>
         <td></td>
         <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br></td>
-        <td>Checkin 
+        <td>Afternoon Checkin 
             <ul>
                 <li> <em>1 Day Progress Challenge</em></li>
             </ul>
@@ -129,16 +136,17 @@ td li::marker {content: "‣ ";}
     <tr style="background-color: #f2f2f2; border-top: 2px solid black;">
         <td>Sunday <br>(4/3)</td>
         <td>12:00p(ET)<br>11:00a(CT)<br>9:00a(PT)<br></td>
-        <td>Checkin</td>
+        <td>Morning Checkin</td>
     </tr>
     <tr style="border-top: 2px solid black;">
         <td>Monday <br>(4/4)</td>
         <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br></td>
-        <td>Checkin <br> Sponsor Welcome from SGCI - Dr. Linda Hayden <a href="https://www.linkedin.com/in/linda-hayden-5a8b424/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a>
-            <ul>
-                <li> Team Intro Videos by Mentors </li>
-                <li> Presentation Reminders </li>
-                <li> Viewer's Choice Voting Opens </li>
+        <td>Morning - Last Checkin
+        <ul>
+            <li>Sponsor Welcome from SGCI - Dr. Linda Hayden <a href="https://www.linkedin.com/in/linda-hayden-5a8b424/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
+            <li> Team Intro Videos by Mentors </li>
+            <li> Presentation Reminders </li>
+            <li> Viewer's Choice Voting Opens </li>
             </ul>
         </td>
     </tr>
@@ -148,7 +156,7 @@ td li::marker {content: "‣ ";}
         <td>Team Presentations and Awards Ceremony
             <ul>
                 <li> <em>Team Deliverables Due</em> </li>
-                <li> YouTube Stream Opens </li>
+                <li> YouTube Stream Opens <a href="https://youtu.be/lFZeEgw7JAg">[Link]</a> <a href="https://youtu.be/lFZeEgw7JAg"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Live of final Presentations"></a></li>
             </ul>
         </td>
     </tr>
