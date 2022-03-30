@@ -89,7 +89,8 @@ td li::marker {content: "‣ ";}
         <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br></td>
         <td>Morning Checkin <br> 
         <ul>
-            <li><em>Team Introductions (1-slide/1-minute)</em></li>
+            <li> Judge's Overview <em>(Private)</em> </li>
+            <li>Team Introductions <em>(1-slide/1-minute)</em></li>
                 <ul>
                         <li> Team name </li>
                         <li> Team members including Mentor </li>
@@ -105,7 +106,7 @@ td li::marker {content: "‣ ";}
         <td>Afternoon Checkin 
         <ul>
             <li>Sponsor Welcome from Google </li>
-            <li> <em>Team Goals Presentation (1-slide/1-minute)</em> </li>
+            <li> Team Goals Presentation <em>(1-slide/1-minute)</em> </li>
                 <ul>      
                     <li> Team name </li>
                     <li> Team members including Mentor</li>
