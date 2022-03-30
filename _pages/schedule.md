@@ -16,11 +16,11 @@ comments: true
     <li><strong>Keynote (TACC HPC training model)</strong> - (3/25  - 9:45aET/8:45aCT)</li> 
     <ul><li>Charlie Dey <a href="https://www.linkedin.com/in/charlie-dey-0031317a/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a> </li></ul>
     <li><strong>Hackathon Beginning to End</strong> - (3/25 - 12:45pET/11:45aCT) 
-    <ul><li>Josselyn Saldago <a href="https://www.linkedin.com/in/josselynsalgado"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a> </li></ul></li> 
+    <ul><li>Josselyn Saldago <a href="https://www.linkedin.com/in/josselynsalgado"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a> <a href="https://www.youtube.com/watch?v=u510fjsC2nM">[Video]</a></li></ul></li> 
     <li><strong>Data to Dashboard</strong> - (3/26 - 9:30aET/8:30aCT) 
-    <ul><li>Je'aime Powell <a href="https://www.linkedin.com/in/jeaimehp/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a> </li></ul>  </li>
+    <ul><li>Je'aime Powell <a href="https://www.linkedin.com/in/jeaimehp/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a> <a href="slides/Mentor%20Overview.pdf">[Slide Deck]</a> | <a href="https://youtu.be/kWTaxXiEEIY">[Video]</a></li></ul>  </li>
     <li><strong>Cloudy Cluster / Google Cloud</strong> - (3/26 - 11:15aET/10:15aCT)
-    <ul><li>Boyd Wilson <a href="https://www.linkedin.com/in/boydwilson/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a> </li></ul> </li>
+    <ul><li>Boyd Wilson <a href="https://www.linkedin.com/in/boydwilson/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a> <a href="https://youtu.be/2d5bJcgxG2Y">[Video]</a></li></ul> </li>
 </ul>
 ---
 ## Hackathon Events
