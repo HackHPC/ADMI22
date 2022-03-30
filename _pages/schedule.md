@@ -24,6 +24,7 @@ comments: true
 </ul>
 ---
 ## Hackathon Events
+**[Add all events to your calendar (ics file)](assets/ics_files/HackHPC-ADMI-FullSchedule.ics)** [![Calendar Icon](assets/images/cal-icon.png)](assets/ics_files/HackHPC-ADMI-FullSchedule.ics)
 
 <style>
 table {
@@ -75,7 +76,7 @@ td li::marker {content: "‣ ";}
         <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br></td>
         <td>Kickoff Meeting <br> 
             <ul>
-                <li>Ethics <a href="https://www.youtube.com/watch?v=KukF3-_wqkI&list=PLk7G3_iq2ijTSBy_JwLSXSKjyga6nYFC9&index=7"><img src="assets/images/youtube-logo-sm.png" alt="YouTube video on Ethics"></a> </li>
+                <li> Code of Conduct <a href="https://youtu.be/yucvXW09oao"><img src="assets/images/youtube-logo-sm.png" alt="YouTube video on Code of Conduct"></a> </li>
                 <li> Judging Criteria and Awards  </li>
                 <li> Schedule </li>
                 <li> Google Project Setup </li>
@@ -87,22 +88,20 @@ td li::marker {content: "‣ ";}
         <td>Friday <br>(4/1)</td>
         <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br></td>
         <td>Checkin <br> 
-        <em>Team Introductions</em>
+        <em>Team Introductions (1-slide/1-minute)</em>
             <ul>
-                <li> 1 Slide </li>
-                <li> Team name </li>
-                <li> Team members including Mentor </li>
-                <li> Team Theme song </li>
-                <li> Team Virtual background </li>
+                        <li> Team name </li>
+                        <li> Team members including Mentor </li>
+                        <li> Team Theme song </li>
+                        <li> Team Virtual background </li>
             </ul>
         </td>
     </tr>
      <tr style="background-color: #f2f2f2;">
         <td></td>
         <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br></td>
-        <td>Checkin <br> Sponsor Welcome from Google <br> <em>Team Goals Presentation</em> 
+        <td>Checkin <br> Sponsor Welcome from Google <br> <em>Team Goals Presentation (1-slide/1-minute)</em> 
             <ul>
-                <li> 1 Slide </li>
                 <li> Team name </li>
                 <li> Team members including Mentor</li>
             </ul>
@@ -113,7 +112,7 @@ td li::marker {content: "‣ ";}
         <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br></td>
         <td>Checkin <br> Sponsor Welcome from Omnibond - Amy Cannon <a href="https://www.linkedin.com/in/amy-cannon-46230b31/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a>
             <ul>
-                <li> Team Goal(s) </li>
+                <li> Team Goal(s) (1-slide/1-minute)</li>
                 <li> at least 2 tasks to be completed by Saturday Evening Checkin</li>
             </ul>
         </td>
