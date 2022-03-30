@@ -33,6 +33,10 @@
 <lastmod>2022-03-24T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/end-to-end/</loc>
+<lastmod>2022-03-25T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/data-to-dashboard-training/</loc>
 <lastmod>2022-03-26T00:00:00-05:00</lastmod>
 </url>
@@ -93,6 +97,9 @@
 </url>
 <url>
 <loc>http://0.0.0.0:4000/tags.html</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/page2/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/slides/Data-to-Dashboard.pdf</loc>
