@@ -73,7 +73,7 @@ td li::marker {content: "‣ ";}
     </tr>
     <tr> 
         <td>Thursday <br>(3/31)</td>
-        <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br></td>
+        <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br> <a href="assets/ics_files/HackHPC-ADMI-Kick-off-Meeting.ics"><img src="assets/images/cal-icon.png" alt="Add to calendar"></a></td>
         <td>Kickoff Meeting <br> 
             <ul>
                 <li> Code of Conduct <a href="https://youtu.be/yucvXW09oao"><img src="assets/images/youtube-logo-sm.png" alt="YouTube video on Code of Conduct"></a> </li>
@@ -86,9 +86,10 @@ td li::marker {content: "‣ ";}
     </tr>
     <tr style="background-color: #f2f2f2; border-top: 2px solid black;">
         <td>Friday <br>(4/1)</td>
-        <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br></td>
+        <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br><a href="assets/ics_files/HackHPC-ADMI-Friday-4-1-Morning-Checkin.ics"><img src="assets/images/cal-icon.png" alt="Add to calendar"></a></td>
         <td>Morning Checkin <br> 
         <ul>
+            <li>Sponsor Welcome from Voltron Data - Fernanda Foertter <a href="https://www.linkedin.com/in/foertter/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a>
             <li> Judge's Overview <em>(Private)</em> </li>
             <li>Team Introductions <em>(1-slide/1-minute)</em></li>
                 <ul>
@@ -102,7 +103,7 @@ td li::marker {content: "‣ ";}
     </tr>
      <tr style="background-color: #f2f2f2;">
         <td></td>
-        <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br></td>
+        <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br><a href="assets/ics_files/HackHPC-ADMI-Friday-4-1-Afternoon-Checkin.ics"><img src="assets/images/cal-icon.png" alt="Add to calendar"></a></td>
         <td>Afternoon Checkin 
         <ul>
             <li>Sponsor Welcome from Google </li>
@@ -116,7 +117,7 @@ td li::marker {content: "‣ ";}
     </tr>
     <tr style="border-top: 2px solid black;">
         <td>Saturday <br>(4/2)</td>
-        <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br></td>
+        <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br><a href="assets/ics_files/HackHPC-ADMI-Saturday-4-2-Morning-Checkin.ics"><img src="assets/images/cal-icon.png" alt="Add to calendar"></a></td>
         <td>Morning Checkin 
         <ul>
             <li>Sponsor Welcome from Omnibond - Amy Cannon <a href="https://www.linkedin.com/in/amy-cannon-46230b31/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
@@ -127,21 +128,22 @@ td li::marker {content: "‣ ";}
     </tr>
     <tr>
         <td></td>
-        <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br></td>
+        <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br><a href="assets/ics_files/HackHPC-ADMI-Saturday-4-2-Afternoon-Checkin.ics"><img src="assets/images/cal-icon.png" alt="Add to calendar"></a></td>
         <td>Afternoon Checkin 
             <ul>
+                <li>Sponsor Welcome from XSEDE - John Holly <a href="https://www.linkedin.com/in/john-holly-7264a4b/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
                 <li> <em>1 Day Progress Challenge</em></li>
             </ul>
         </td>
     </tr>
     <tr style="background-color: #f2f2f2; border-top: 2px solid black;">
         <td>Sunday <br>(4/3)</td>
-        <td>12:00p(ET)<br>11:00a(CT)<br>9:00a(PT)<br></td>
+        <td>12:00p(ET)<br>11:00a(CT)<br>9:00a(PT)<br><a href="assets/ics_files/HackHPC-ADMI-Sunday-4-3-Morning-Checkin.ics"><img src="assets/images/cal-icon.png" alt="Add to calendar"></a></td>
         <td>Morning Checkin</td>
     </tr>
     <tr style="border-top: 2px solid black;">
         <td>Monday <br>(4/4)</td>
-        <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br></td>
+        <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br><a href="assets/ics_files/HackHPC-ADMI-Monday 4-4-Last-Checkin-Session .ics"><img src="assets/images/cal-icon.png" alt="Add to calendar"></a></td>
         <td>Morning - Last Checkin
         <ul>
             <li>Sponsor Welcome from SGCI - Dr. Linda Hayden <a href="https://www.linkedin.com/in/linda-hayden-5a8b424/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
@@ -153,9 +155,10 @@ td li::marker {content: "‣ ";}
     </tr>
     <tr style="border-bottom: 2px solid black;">
         <td ></td>
-        <td>6:00p(ET)<br>5:00p(CT)<br>3:00p(PT)<br></td>
+        <td>6:00p(ET)<br>5:00p(CT)<br>3:00p(PT)<br><a href="assets/ics_files/HackHPC-ADMI-Final-Presentations.ics"><img src="assets/images/cal-icon.png" alt="Add to calendar"></a></td>
         <td>Team Presentations and Awards Ceremony
             <ul>
+                <li>Sponsor Welcome from ADMI22 - Dr. Elvira Caldwell <a href="https://www.linkedin.com/in/rebecca-caldwell-0434256/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
                 <li> <em>Team Deliverables Due</em> </li>
                 <li> YouTube Stream Opens <a href="https://youtu.be/lFZeEgw7JAg">[Link]</a> <a href="https://youtu.be/lFZeEgw7JAg"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Live of final Presentations"></a></li>
             </ul>
