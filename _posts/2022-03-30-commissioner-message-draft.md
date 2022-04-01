@@ -4,7 +4,7 @@ title:  "A message from the Commissioner"
 author: john
 categories: [ information ]
 image: assets/images/TheDraft-HACKHPCADMI.png
-tags: [sticky, featured]
+tags: [featured]
 ---
 
 Congratulations on your outstanding academic career. Your accomplishments at your university have made you one of the highest-rated players in this year's HackHPC@ADMI22 Draft. 
