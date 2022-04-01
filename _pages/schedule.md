@@ -76,6 +76,7 @@ td li::marker {content: "‣ ";}
         <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br> <a href="assets/ics_files/HackHPC-ADMI-Kick-off-Meeting.ics"><img src="assets/images/cal-icon.png" alt="Add to calendar"></a></td>
         <td>Kickoff Meeting <br> 
             <ul>
+                <li style="color: darkblue;"> <strong> Sponsor Welcome from Voltron Data </strong>- Fernanda Foertter <a href="https://www.linkedin.com/in/foertter/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
                 <li> Code of Conduct <a href="https://youtu.be/yucvXW09oao"><img src="assets/images/youtube-logo-sm.png" alt="YouTube video on Code of Conduct"></a> </li>
                 <li> Judging Criteria and Awards  </li>
                 <li> Schedule </li>
@@ -89,7 +90,6 @@ td li::marker {content: "‣ ";}
         <td>11:00a(ET)<br>10:00a(CT)<br>8:00a(PT)<br><a href="assets/ics_files/HackHPC-ADMI-Friday-4-1-Morning-Checkin.ics"><img src="assets/images/cal-icon.png" alt="Add to calendar"></a></td>
         <td>Morning Checkin <br> 
         <ul>
-            <li style="color: darkblue;"> <strong> Sponsor Welcome from Voltron Data </strong>- Fernanda Foertter <a href="https://www.linkedin.com/in/foertter/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
             <li> Judge's Overview <em>(Private)</em> </li>
             <li>Team Introductions <em>(1-slide/1-minute)</em></li>
                 <ul>
