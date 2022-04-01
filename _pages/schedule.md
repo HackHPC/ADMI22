@@ -91,7 +91,7 @@ td li::marker {content: "‣ ";}
         <td>Morning Checkin <br> 
         <ul>
             <li> Judge's Overview <em>(Private)</em> </li>
-            <li>Team Introductions <em>(1-slide/1-minute)</em> - <strong>Winner Team "Nourishment Ninjas"!!</strong></li>
+            <li>Team Introductions <em>(1-slide/1-minute)</em> <br> <strong>Winner Team "Nourishment Ninjas"!!</strong></li>
                 <ul>
                         <li> Team name </li>
                         <li> Team members including Mentor </li>
