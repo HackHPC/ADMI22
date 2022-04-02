@@ -78,10 +78,10 @@ td li::marker {content: "‣ ";}
             <ul>
                 <li style="color: darkblue;"> <strong> Sponsor Welcome from Voltron Data </strong>- Fernanda Foertter <a href="https://www.linkedin.com/in/foertter/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
                 <li> Code of Conduct <a href="https://youtu.be/yucvXW09oao"><img src="assets/images/youtube-logo-sm.png" alt="YouTube video on Code of Conduct"></a> </li>
-                <li> Judging Criteria and Awards  </li>
-                <li> Schedule </li>
+                <li> Judging Criteria and Awards <a href="https://youtu.be/OVEBEJ2xZN0"><img src="assets/images/youtube-logo-sm.png" alt="YouTube video on the Judging Criteria"></a></li> 
+                <li> Schedule <a href="https://hackhpc.github.io/ADMI22/schedule.html"> [Link] </a></li>
                 <li> Google Project Setup </li>
-                <li> <em>The Draft</em> </li>
+                <li> <em>The Draft</em> <a href="https://hackhpc.github.io/ADMI22/draft-results/"> [Link] </a></li>
             </ul>
         </td>
     </tr>
