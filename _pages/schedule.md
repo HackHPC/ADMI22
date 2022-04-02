@@ -106,7 +106,7 @@ td li::marker {content: "‣ ";}
         <td>7:00p(ET)<br>6:00p(CT)<br>4:00p(PT)<br><a href="assets/ics_files/HackHPC-ADMI-Friday-4-1-Afternoon-Checkin.ics"><img src="assets/images/cal-icon.png" alt="Add to calendar"></a></td>
         <td>Afternoon Checkin 
         <ul>
-            <li style="color: darkblue;"> <strong> Welcome from Google </strong></li>
+            <li style="color: darkblue;"> <strong> Welcome from Google </strong>  Ryan Matsumoto <a href="https://www.linkedin.com/in/ryanmatsumoto/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
             <li> Team Goals Presentation <em>(1-slide/1-minute)</em> </li>
                 <ul>      
                     <li> Team name </li>
