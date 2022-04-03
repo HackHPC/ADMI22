@@ -132,7 +132,7 @@ td li::marker {content: "‣ ";}
         <td>Afternoon Checkin 
             <ul>
                 <li style="color: darkblue;"> <strong> Welcome from XSEDE </strong>- John Holly <a href="https://www.linkedin.com/in/john-holly-7264a4b/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
-                <li> <em>1 Day Progress Challenge</em></li>
+                <li> <em>1 Day Progress Challenge</em> <br> <strong>Winner Team "Voracious Vikings"!!</strong></li>
             </ul>
         </td>
     </tr>
