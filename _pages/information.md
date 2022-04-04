@@ -71,6 +71,7 @@ comments: true
 * [YouTube Channel](https://www.youtube.com/channel/UCESkfjHWsERvFpJgPmWXRSA/playlists)
   * [Team Trailer Playlist](https://www.youtube.com/watch?v=HzJEI9kDkNs&list=PLk7G3_iq2ijQklAlXZT5IUWzUbdIhcSU-)
   * [Event Playlist](https://www.youtube.com/watch?v=R0kcxZKj8AM&list=PLk7G3_iq2ijTH7GzPIQZ-L8IfqSUS74X-)
+* [Spotify Collaborative Playlist](https://open.spotify.com/playlist/57kLEJeOWVzlbn7iBwOiDg?si=2d03e8c4ed0d484a)
 
 ## Training and Resources
 - [Helpful Links](#helpful-links)
