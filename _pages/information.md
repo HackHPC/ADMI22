@@ -8,7 +8,6 @@ comments: true
 
 {% include teams.html%}
 
-## Team Links
 ### Nourishment Ninjas 
 - [Playlist](https://www.youtube.com/watch?v=zVok_fgXM2I&list=PLk7G3_iq2ijR69MGRrRiejgN6vWlLK9D2) 
 - **Winner** [Intro Video](https://youtu.be/zVok_fgXM2I)
@@ -74,12 +73,6 @@ comments: true
   * [Event Playlist](https://www.youtube.com/watch?v=R0kcxZKj8AM&list=PLk7G3_iq2ijTH7GzPIQZ-L8IfqSUS74X-)
 
 ## Training and Resources
-- [Team Links](#team-links)
-  - [Nourishment Ninjas](#nourishment-ninjas)
-  - [Raging Flashy Tigers](#raging-flashy-tigers)
-  - [SpelHouse Tiguars](#spelhouse-tiguars)
-  - [The Akatsuki](#the-akatsuki)
-  - [Voracious Vikings](#voracious-vikings)
 - [Helpful Links](#helpful-links)
 - [Social Media](#social-media)
 - [Training and Resources](#training-and-resources)
