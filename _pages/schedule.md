@@ -149,7 +149,7 @@ td li::marker {content: "‣ ";}
             <li style="color: darkblue;"> <strong> Welcome from SGCI </strong>- Dr. Linda Hayden <a href="https://www.linkedin.com/in/linda-hayden-5a8b424/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
             <li> Team Intro Videos by Mentors <br> <strong>Winner Team "The Akatsuki"!!</strong> <a href="https://www.youtube.com/playlist?list=PLk7G3_iq2ijQklAlXZT5IUWzUbdIhcSU-">[Team Trailers Playlist]</a> <a href="hhttps://www.youtube.com/playlist?list=PLk7G3_iq2ijQklAlXZT5IUWzUbdIhcSU-"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Playlist of Team Trailers"></a></li>
             <li> Presentation Reminders </li>
-            <li> Viewer's Choice Voting Opens </li>
+            <li> Viewer's Choice Voting Opens <a href="https://forms.gle/4jQLJ5JNnjqcDfVJ8">[Voting Link]</a></li>
             </ul>
         </td>
     </tr>
@@ -160,7 +160,7 @@ td li::marker {content: "‣ ";}
             <ul>
                 <li style="color: darkblue;"> <strong> Welcome from ADMI22 </strong>- Dr. Elvira Caldwell <a href="https://www.linkedin.com/in/rebecca-caldwell-0434256/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
                 <li> <em>Team Deliverables Due</em> </li>
-                <li> YouTube Stream Opens <a href="https://youtu.be/lFZeEgw7JAg">[Link]</a> <a href="https://youtu.be/lFZeEgw7JAg"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Live of final Presentations"></a></li>
+                <li> YouTube Stream Opens <a href="https://youtu.be/lFZeEgw7JAg">[Video Stream Link]</a> <a href="https://youtu.be/lFZeEgw7JAg"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Live of final Presentations"></a></li>
             </ul>
         </td>
     </tr>
