@@ -147,7 +147,7 @@ td li::marker {content: "‣ ";}
         <td>Morning - Last Checkin
         <ul>
             <li style="color: darkblue;"> <strong> Welcome from SGCI </strong>- Dr. Linda Hayden <a href="https://www.linkedin.com/in/linda-hayden-5a8b424/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
-            <li> Team Intro Videos by Mentors </li>
+            <li> Team Intro Videos by Mentors <br> <strong>Winner Team "The Akatsuki"!!</strong> <a href="https://www.youtube.com/playlist?list=PLk7G3_iq2ijQklAlXZT5IUWzUbdIhcSU-">[Team Trailers Playlist]</a> <a href="hhttps://www.youtube.com/playlist?list=PLk7G3_iq2ijQklAlXZT5IUWzUbdIhcSU-"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Playlist of Team Trailers"></a></li>
             <li> Presentation Reminders </li>
             <li> Viewer's Choice Voting Opens </li>
             </ul>
