@@ -5,15 +5,64 @@ permalink: "/information.html"
 
 comments: true
 ---
+
+{% include teams.html%}
+
+## Team Links
+### Nourishment Ninjas 
+- [Playlist](https://www.youtube.com/watch?v=zVok_fgXM2I&list=PLk7G3_iq2ijR69MGRrRiejgN6vWlLK9D2) 
+- **Winner** [Intro Video](https://youtu.be/zVok_fgXM2I)
+- [Goals](https://youtu.be/35n7rduA1tU) 
+- [Tasks](https://youtu.be/Cyg4Py3rp2k) 
+- [Progress Challenge](https://youtu.be/wIgWbymsGJQ) 
+- [Project GitHub Repo](https://github.com/lwilliams121/NourishmentNinjas2022/) 
+- [Trailer](https://youtu.be/nG5yahma5YQ) 
+
+### Raging Flashy Tigers
+- [Playlist](https://www.youtube.com/watch?v=X_N__kNEHWE&list=PLk7G3_iq2ijQ7LlkZi8p4oWBlGLatGChm)
+- [Intro Video](https://youtu.be/X_N__kNEHWE)
+- [Goals](https://youtu.be/lekcCXRvX4s) 
+- [Tasks](https://youtu.be/rdReZIxUoe8) 
+- [Progress Challenge](https://youtu.be/zIom0J_nzCk) 
+- [Project GitHub Repo](https://github.com/Raharijao/Raging_Flashy_Tigers-Project) 
+- [Trailer](https://youtu.be/dHj0i8KPFNI) 
+
+### SpelHouse Tiguars
+- [Playlist](https://www.youtube.com/watch?v=kbo5j_JgNCc&list=PLk7G3_iq2ijRCMovnL_su1QYEnqfH3ibD) 
+- [Intro Video](https://youtu.be/kbo5j_JgNCc) 
+- [Goals](https://youtu.be/wBgyO0XvmdE) 
+- [Tasks](https://youtu.be/xsC0Rds13RU) 
+- [Progress Challenge](https://youtu.be/XNsMRjO5UnI) 
+- [Project GitHub Repo](https://github.com/asapzy/spelhousetiguars) 
+- [Trailer](https://youtu.be/HzJEI9kDkNs) 
+
+### The Akatsuki 
+[Playlist](https://www.youtube.com/watch?v=2cKR16pKBAc&list=PLk7G3_iq2ijROfii0QXP8nrfsp1gV0sF2) 
+[Intro Video](https://youtu.be/2cKR16pKBAc)
+[Goals](https://youtu.be/i_qKLX5fr8g) 
+[Tasks](https://youtu.be/Q8lH7pyWml80 
+[Progress Challenge](https://youtu.be/a5eP4cVK4TM) 
+[Project GitHub Repo](https://github.com/jullie-s/akatsuki)
+**Winner** [Trailer](https://youtu.be/fl53eMVxNyo) 
+
+### Voracious Vikings
+[Playlist](https://www.youtube.com/watch?v=cmw4_PRTehc&list=PLk7G3_iq2ijQEH_b8bK85GCOVC92vpzrg) 
+[Intro Video](https://youtu.be/cmw4_PRTehc) 
+[Goals](https://youtu.be/Zh-UqMd29Pw) 
+[Tasks](https://youtu.be/3uv7FP1uE1c) 
+**Winner** [Progress Challenge](https://youtu.be/cgi5KZ-iVxo)
+[Project GitHub Repo](https://github.com/dancarlam/Voracious-Vikings-ADMI22) 
+[Trailer](https://youtu.be/MfknSDpkbow) 
+
 ## Helpful Links
 * [Deliverables](https://hackhpc.github.io/ADMI22/deliverables/)
 * [Schedule](https://hackhpc.github.io/ADMI22/schedule.html)
 * [HackHPC](http://hackhpc.org/)
 * [ADMI22 Symposium](https://www.admiusa.org/admi2022/index.php)
 * [Code of Conduct](http://hackhpc.org/codeofconduct/) [[Video]](https://youtu.be/yucvXW09oao)
-* Judging Criteria 
-* Viewer's Choice Ballot
-* Post Survey
+* [Judging Criteria](https://youtu.be/OVEBEJ2xZN0) 
+* [Viewer's Choice Ballot](https://forms.gle/4jQLJ5JNnjqcDfVJ8)
+* [Post Survey](https://forms.gle/AzPQ4LqcCnbZ1DvY7)
 * [Final Presentations Live Stream](https://youtu.be/lFZeEgw7JAg) 
 
 ## Social Media
@@ -23,6 +72,12 @@ comments: true
 * [YouTube Channel](https://www.youtube.com/channel/UCESkfjHWsERvFpJgPmWXRSA/playlists)
 
 ## Training and Resources
+- [Team Links](#team-links)
+  - [Nourishment Ninjas](#nourishment-ninjas)
+  - [Raging Flashy Tigers](#raging-flashy-tigers)
+  - [SpelHouse Tiguars](#spelhouse-tiguars)
+  - [The Akatsuki](#the-akatsuki)
+  - [Voracious Vikings](#voracious-vikings)
 - [Helpful Links](#helpful-links)
 - [Social Media](#social-media)
 - [Training and Resources](#training-and-resources)
