@@ -91,7 +91,7 @@ td li::marker {content: "‣ ";}
         <td>Morning Checkin <br> 
         <ul>
             <li> Judge's Overview <em>(Private)</em> </li>
-            <li>Team Introductions <em>(1-slide/1-minute)</em> <br> <strong>Winner Team "Nourishment Ninjas"!!</strong> <a href="https://youtu.be/zVok_fgXM2I">[Video Link]</a> <a href="https://youtu.be/zVok_fgXM2I"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Video Link"></a></li>
+            <li>Team Introductions <em>(1-slide/1-minute)</em> <br> <strong>Winning Team "Nourishment Ninjas"!!</strong> <a href="https://youtu.be/zVok_fgXM2I">[Video Link]</a> <a href="https://youtu.be/zVok_fgXM2I"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Video Link"></a></li>
                 <ul>
                         <li> Team name </li>
                         <li> Team members including Mentor </li>
@@ -132,7 +132,7 @@ td li::marker {content: "‣ ";}
         <td>Afternoon Checkin 
             <ul>
                 <li style="color: darkblue;"> <strong> Welcome from XSEDE </strong>- John Holly <a href="https://www.linkedin.com/in/john-holly-7264a4b/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
-                <li> <em>1 Day Progress Challenge</em> <br> <strong>Winner Team "Voracious Vikings"!!</strong> <a href="https://youtu.be/cgi5KZ-iVxo">[Video Link]</a> <a href="https://youtu.be/cgi5KZ-iVxo"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Video Link"></a></li>
+                <li> <em>1 Day Progress Challenge</em> <br> <strong>Winning Team "Voracious Vikings"!!</strong> <a href="https://youtu.be/cgi5KZ-iVxo">[Video Link]</a> <a href="https://youtu.be/cgi5KZ-iVxo"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Video Link"></a></li>
             </ul>
         </td>
     </tr>
@@ -147,7 +147,7 @@ td li::marker {content: "‣ ";}
         <td>Morning - Last Checkin
         <ul>
             <li style="color: darkblue;"> <strong> Welcome from SGCI </strong>- Dr. Linda Hayden <a href="https://www.linkedin.com/in/linda-hayden-5a8b424/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
-            <li> Team Intro Videos by Mentors <br> <strong>Winner Team "The Akatsuki"!!</strong> <a href="https://www.youtube.com/playlist?list=PLk7G3_iq2ijQklAlXZT5IUWzUbdIhcSU-">[Team Trailers Playlist]</a> <a href="hhttps://www.youtube.com/playlist?list=PLk7G3_iq2ijQklAlXZT5IUWzUbdIhcSU-"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Playlist of Team Trailers"></a></li>
+            <li> Team Intro Videos by Mentors <br> <strong>Winning Team "The Akatsuki"!!</strong> <a href="https://www.youtube.com/playlist?list=PLk7G3_iq2ijQklAlXZT5IUWzUbdIhcSU-">[Team Trailers Playlist]</a> <a href="hhttps://www.youtube.com/playlist?list=PLk7G3_iq2ijQklAlXZT5IUWzUbdIhcSU-"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Playlist of Team Trailers"></a></li>
             <li> Presentation Reminders </li>
             <li> Viewer's Choice Voting Opens <a href="https://forms.gle/4jQLJ5JNnjqcDfVJ8">[Voting Link]</a></li>
             </ul>
