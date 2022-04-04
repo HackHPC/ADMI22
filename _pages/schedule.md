@@ -161,7 +161,7 @@ td li::marker {content: "‣ ";}
                 <li style="color: darkblue;"> <strong> Welcome from ADMI22 </strong>- Dr. Elvira Caldwell <a href="https://www.linkedin.com/in/rebecca-caldwell-0434256/"><img src="assets/images/sm_linkedinicon.jpeg" alt="LinkedIN"></a></li>
                 <li> <em>Team Deliverables Due</em> </li>
                 <li> YouTube Stream Opens <a href="https://youtu.be/lFZeEgw7JAg">[Video Stream Link]</a> <a href="https://youtu.be/lFZeEgw7JAg"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Live of final Presentations"></a></li>
-                <li><strong>Awards Ceremony</strong> <a href="https://youtu.be/OVEBEJ2xZN0">[Judging Criteria Video Link]</a> <a href="https://youtu.be/OVEBEJ2xZN0"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Live of final Presentations"></li>
+                <li><strong>Awards Ceremony</strong> <a href="https://youtu.be/OVEBEJ2xZN0">[Judging Criteria Video Link]</a> <a href="https://youtu.be/OVEBEJ2xZN0"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Live of final Presentations"></a></li>
                 <ul>
                     <li>Judges Award </li>
                     <li>Viewer's Choice Award </li>
