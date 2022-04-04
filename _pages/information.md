@@ -37,22 +37,22 @@ comments: true
 - [Trailer](https://youtu.be/HzJEI9kDkNs) 
 
 ### The Akatsuki 
-[Playlist](https://www.youtube.com/watch?v=2cKR16pKBAc&list=PLk7G3_iq2ijROfii0QXP8nrfsp1gV0sF2) 
-[Intro Video](https://youtu.be/2cKR16pKBAc)
-[Goals](https://youtu.be/i_qKLX5fr8g) 
-[Tasks](https://youtu.be/Q8lH7pyWml80 
-[Progress Challenge](https://youtu.be/a5eP4cVK4TM) 
-[Project GitHub Repo](https://github.com/jullie-s/akatsuki)
-**Winner** [Trailer](https://youtu.be/fl53eMVxNyo) 
+- [Playlist](https://www.youtube.com/watch?v=2cKR16pKBAc&list=PLk7G3_iq2ijROfii0QXP8nrfsp1gV0sF2) 
+- [Intro Video](https://youtu.be/2cKR16pKBAc)
+- [Goals](https://youtu.be/i_qKLX5fr8g) 
+- [Tasks](https://youtu.be/Q8lH7pyWml80 
+- [Progress Challenge](https://youtu.be/a5eP4cVK4TM) 
+- [Project GitHub Repo](https://github.com/jullie-s/akatsuki)
+- **Winner** [Trailer](https://youtu.be/fl53eMVxNyo) 
 
 ### Voracious Vikings
-[Playlist](https://www.youtube.com/watch?v=cmw4_PRTehc&list=PLk7G3_iq2ijQEH_b8bK85GCOVC92vpzrg) 
-[Intro Video](https://youtu.be/cmw4_PRTehc) 
-[Goals](https://youtu.be/Zh-UqMd29Pw) 
-[Tasks](https://youtu.be/3uv7FP1uE1c) 
-**Winner** [Progress Challenge](https://youtu.be/cgi5KZ-iVxo)
-[Project GitHub Repo](https://github.com/dancarlam/Voracious-Vikings-ADMI22) 
-[Trailer](https://youtu.be/MfknSDpkbow) 
+- [Playlist](https://www.youtube.com/watch?v=cmw4_PRTehc&list=PLk7G3_iq2ijQEH_b8bK85GCOVC92vpzrg) 
+- [Intro Video](https://youtu.be/cmw4_PRTehc) 
+- [Goals](https://youtu.be/Zh-UqMd29Pw) 
+- [Tasks](https://youtu.be/3uv7FP1uE1c) 
+- **Winner** [Progress Challenge](https://youtu.be/cgi5KZ-iVxo)
+- [Project GitHub Repo](https://github.com/dancarlam/Voracious-Vikings-ADMI22) 
+- [Trailer](https://youtu.be/MfknSDpkbow) 
 
 ## Helpful Links
 * [Deliverables](https://hackhpc.github.io/ADMI22/deliverables/)
@@ -70,6 +70,8 @@ comments: true
 * [Twitter](https://twitter.com/ccloudhack)
 * [LinkedIn Group](https://www.linkedin.com/groups/8859728/)
 * [YouTube Channel](https://www.youtube.com/channel/UCESkfjHWsERvFpJgPmWXRSA/playlists)
+  * [Team Trailer Playlist](https://www.youtube.com/watch?v=HzJEI9kDkNs&list=PLk7G3_iq2ijQklAlXZT5IUWzUbdIhcSU-)
+  * [Event Playlist](https://www.youtube.com/watch?v=R0kcxZKj8AM&list=PLk7G3_iq2ijTH7GzPIQZ-L8IfqSUS74X-)
 
 ## Training and Resources
 - [Team Links](#team-links)
