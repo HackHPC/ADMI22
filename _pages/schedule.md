@@ -163,9 +163,9 @@ td li::marker {content: "‣ ";}
                 <li> YouTube Stream Opens <a href="https://youtu.be/lFZeEgw7JAg">[Video Stream Link]</a> <a href="https://youtu.be/lFZeEgw7JAg"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Live of final Presentations"></a></li>
                 <li><strong>Awards Ceremony</strong> <a href="https://youtu.be/OVEBEJ2xZN0">[Judging Criteria Video Link]</a> <a href="https://youtu.be/OVEBEJ2xZN0"><img src="assets/images/youtube-logo-sm.png" alt="YouTube Live of final Presentations"></a></li>
                 <ul>
-                    <li>Judges Award </li>
-                    <li>Viewer's Choice Award </li>
-                    <li>OpenSource Award </li>
+                    <li>Judges Award <strong>Winning Team "Voracious Vikings"!!</strong> </li>
+                    <li>Viewer's Choice Award <strong>Winning Team "Raging Flashy Tigers"!!</strong></li>
+                    <li>OpenSource Award <strong>Winning Team "SpelHouse Tiguars"!!</strong></li>
                 </ul>
             </ul>
         </td>
